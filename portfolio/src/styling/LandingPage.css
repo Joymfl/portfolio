@@ -1,0 +1,25 @@
+.header {
+    background-color: wheat;
+    /*display: flex;*/
+    align-content: center;
+    margin: 5rem;
+}
+
+.first_text {
+    margin: 10px;
+    background-color: cornsilk;
+}
+
+li {
+    margin: 5rem;
+    padding: 5px;
+}
+
+.main {
+    background-color: gray;
+}
+
+.navbar {
+}
+
+label
